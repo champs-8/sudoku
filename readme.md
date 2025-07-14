@@ -43,8 +43,8 @@ Projeto desenvolvido em Java para simular o clássico jogo **Sudoku** no termina
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/champs-8/dio.git
-   cd dio/sudoku
+   git clone https://github.com/champs-8/sudoku.git
+   
 2. Compile o código:
    ```bash
    javac Main.java Board.java Cell.java SudokuGenerator.java SudokuValidator.java BoardPrinter.java
